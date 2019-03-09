@@ -1,0 +1,70 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 15px;
+  font-family: 'Rubik', sans-serif;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #bd61af;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: Black;
+  font-size: 15px;
+}
+a:hover {
+  text-decoration: none;
+  color: #bd61af;
+  font-size: 15px;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/1012982/pexels-photo-1012982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  padding: 200px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  text-align: center;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+#img {
+  padding: 20px;
+  margin: 50px;
+  text-align: center; 
+}
